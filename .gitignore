@@ -1,4 +1,5 @@
 # Add files/folders to ignore
+.vs/
 
 # Ignore build outputs
 bin/
