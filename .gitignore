@@ -1,1 +1,50 @@
 # Add files/folders to ignore
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.rsuser
+*.suo
+
+# Ignore Rider IDE files
+.idea/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore NuGet packages folder
+packages/
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.pid
+*.seed
+
+# Ignore coverage and test results
+TestResults/
+*.coverage
+*.coveragexml
+*.testsettings
+*.vsmdi
+
+# Ignore configuration files
+appsettings.local.json
+secrets.json
+
+# Ignore .NET generated files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
